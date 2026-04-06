@@ -15,9 +15,10 @@ public class HanGyeol : UnityDeveloper
     public string Name       = "권한결 (Hangyeol)";
     public string Role       = "Unity Developer @ 주니어 개발자";
     public string Focus      = "Real-Time Metaverse & Unity 3D/2D Frontend";
-    public string[] Passions = {"3D/2D World Building", "UI/UX", "Simulation","Interactive Experience", "Metaverse",
-                                "Digital Twin", "AI-assisted Development", "System Architecture", "Performance Optimization", "Real-time Rendering"};
-    public bool   OpenToConnect = true;
+    public string[] Passions = {"3D/2D World Building", "UI/UX", "Simulation","Interactive Experience",
+                                "Metaverse","Digital Twin", "AI-assisted Development", "System Architecture",
+                                "Performance Optimization", "Real-time Rendering"};
+    public bool OpenToConnect = true;
 }
 ```
 
