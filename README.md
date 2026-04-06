@@ -62,10 +62,10 @@ public class HanGyeol : UnityDeveloper
 
 ## 🌟 Interests
 
-<div align="left">
+<div align="center">
 
 | 🎮 Unity 3D / 2D | 🌐 Metaverse | 🏙️ Digital Twin |
-|:---:|:---:|:---:|
+|:----:|:----:|:----:|
 | 🖥️ UI / UX | ⚡ Simulation | 🔗 Interactive |
 
 </div>
