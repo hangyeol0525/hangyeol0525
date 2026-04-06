@@ -25,7 +25,7 @@ public class HanGyeol : UnityDeveloper
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="leftr">
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -51,7 +51,7 @@ public class HanGyeol : UnityDeveloper
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=한결GitHub유저명&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=한결GitHub유저명&layout=compact&theme=tokyonight&hide_border=true" />
@@ -62,7 +62,7 @@ public class HanGyeol : UnityDeveloper
 
 ## 🌟 Interests
 
-<div align="center">
+<div align="left">
 
 | 🎮 Unity 3D / 2D | 🌐 Metaverse | 🏙️ Digital Twin |
 |:---:|:---:|:---:|
@@ -78,6 +78,7 @@ public class HanGyeol : UnityDeveloper
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/여기에_본인_링크드인_ID_입력)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/한결GitHub유저명)
+[![Gmail]()
 
 </div>
 
