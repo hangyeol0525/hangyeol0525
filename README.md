@@ -2,6 +2,11 @@
 
 <!-- 타이핑 애니메이션 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%ED%95%9C%EA%B2%B0+%F0%9F%91%8B;Unity+Developer+%26+World+Builder;Building+Real-Time+Metaverse+%F0%9F%8C%90;Turning+Reality+into+Digital+Worlds+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
+
+*"현실을 디지털로, 상상을 공간으로."* 🌐✨
+
+</div>
 
 </div>
 
@@ -85,8 +90,4 @@ public class HanGyeol : UnityDeveloper
 
 ---
 
-<div align="center">
 
-*"현실을 디지털로, 상상을 공간으로."* 🌐✨
-
-</div>
