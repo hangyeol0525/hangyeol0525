@@ -103,21 +103,6 @@ public class HanGyeol : UnityDeveloper
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hangyeol0525&show_icons=true&theme=tokyonight&hide_border=true&locale=kr" alt="GitHub Stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangyeol0525&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hangyeol0525&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
 ## 🌟 Interests
 
 <div align="center">
