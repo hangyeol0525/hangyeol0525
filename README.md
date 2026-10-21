@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hangyeol's%20Git&fontSize=30&fontAlign=50&fontAlignY=38)
 <div align="center">
+    
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Hangyeol+%F0%9F%91%8B;Junior+Unity+2D%2F3D+Developer+%F0%9F%8E%AE;Interested+in+Simulation+%26+Digital+Twin+%F0%9F%8C%90;Developing+Smarter+with+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
 
