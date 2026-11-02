@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hangyeol's%20Git&fontSize=30&fontAlign=50&fontAlignY=38)
+
 <div align="center">
     
 
